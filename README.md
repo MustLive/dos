@@ -7,3 +7,4 @@ Programs for DoS and DDoS attacks:
 2. wp-drupal-dos.py - Wordpress and Drupal XML Blowup Attack DoS.
 3. wp-drupal-dos2.py - Wordpress and Drupal XML Blowup Attack DoS. This version supports command line arguments and works on both Python 2.x and 3.x.
 4. wordpress-4.0-dos.php - WordPress 4.0 Denial of Service.
+5. torshammer.py - Tor's Hammer is Denial Of Service Testing Tool.
